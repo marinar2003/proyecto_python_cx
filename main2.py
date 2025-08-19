@@ -1,5 +1,5 @@
 # Importar las funciones de los modulos creados
-# Asegúrate de que las rutas 'src2' y los nombres de archivos 'data_procesos', 'estadisticas' sean correctos en tu proyecto
+
 from src2.data_procesos import cargar_y_limpiar_datos
 from src2.estadisticas import contar_cirugias_por_dia, obtener_cirugias_de_medico
 
